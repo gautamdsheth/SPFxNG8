@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.9.1",
+    "libraryName": "testsol-spfx",
+    "libraryId": "a19777a1-69af-423d-bce8-7754f48754d3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "testsol-spfx",
+    "framework": "none",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
